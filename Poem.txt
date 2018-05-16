@@ -1,0 +1,7 @@
+A rainbow has following colors.
+
+Red
+Orange
+Blue
+Indigo
+Violet
