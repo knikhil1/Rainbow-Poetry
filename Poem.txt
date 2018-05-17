@@ -1,4 +1,4 @@
-A rainbow has following colors.
+A rainbow has following colors. And a Pony.
 
 Red
 Orange
@@ -7,3 +7,4 @@ Green
 Blue
 Indigo
 Violet
+And a hello Unicorn. How are you buddy.
