@@ -3,7 +3,9 @@ A rainbow has following colors.
 Red
 Orange
 Yellow
+Dhola rang
 Green
 Blue
 Indigo
 Violet
+
