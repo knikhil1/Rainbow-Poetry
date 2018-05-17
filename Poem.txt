@@ -3,8 +3,12 @@ A rainbow has following colors. And a Pony.
 Red
 Orange
 Yellow
+Dhola rang
 Green
 Blue
 Indigo
 Violet
-And a hello Unicorn. How are you buddy.
+
+And a hello Unicorn. How are you budd
+
+master
